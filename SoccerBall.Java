@@ -43,8 +43,8 @@ public class GameExample extends Game {
 		Zen.write("anishx", f.getX());
 		Zen.write("anishy", f.getY());
 		
-		opponent.setX(Zen.readInt("keshavx") );
-		opponent.setY(Zen.readInt("keshavy") );
+		opponent.setX(Zen.readInt("alexx") );
+		opponent.setY(Zen.readInt("alexy") );
 		
 		
 		if (Zen.isKeyPressed("space")) {
